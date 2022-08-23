@@ -2,5 +2,5 @@
 
 ## React Project
 
-### demo
+### demo:
 https://aelita-colorgenerator.netlify.app
